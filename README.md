@@ -11,7 +11,8 @@ Dentro la cartella "modal" troviamo:
 2) "fatture.html" che è la pagina web contenente il form;
 3) "function.js" che contiene il codice che permette di avere il form in 4 passaggi e la validazione dei campi;
 4) "generapdf.js" che contiene il codice che prende i valori immessi nel form e regola la struttura che deve avere il PDF finale della fattura;
-5) Immagine di benvenuto a cura di Undraw.co
+5) Immagine di benvenuto a cura di Undraw.co;
+6) Lo style per la maggior parte è Bootstrap (ver.5 per la home, ver.4 per il form), in minima parte c'è anche style.css.
 
 Un po' di info sugli script e le librerie Javascript:
 1) La maggior parte è Vanilla JS;
